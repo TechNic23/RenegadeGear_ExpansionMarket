@@ -1,0 +1,180 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RenegadeGear_WEAPONS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "renegade_black_deagle",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 35750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_doodle_deagle",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 35750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_fal_black",
+      "MaxPriceThreshold": 650000,
+      "MinPriceThreshold": 422500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_fal_blackweb",
+      "MaxPriceThreshold": 650000,
+      "MinPriceThreshold": 422500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_fal_bluedecay",
+      "MaxPriceThreshold": 650000,
+      "MinPriceThreshold": 422500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_fal_coloursplash",
+      "MaxPriceThreshold": 650000,
+      "MinPriceThreshold": 422500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_fal_doodle",
+      "MaxPriceThreshold": 650000,
+      "MinPriceThreshold": 422500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_fal_gold",
+      "MaxPriceThreshold": 1000000,
+      "MinPriceThreshold": 650000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "renegade_fal_gold_buttstock",
+        "renegade_fal_300rnd_mag"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_fal_greengrunge",
+      "MaxPriceThreshold": 650000,
+      "MinPriceThreshold": 422500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_fal_lightray",
+      "MaxPriceThreshold": 650000,
+      "MinPriceThreshold": 422500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_fal_razor",
+      "MaxPriceThreshold": 650000,
+      "MinPriceThreshold": 422500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_fal_razorflare",
+      "MaxPriceThreshold": 650000,
+      "MinPriceThreshold": 422500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_gold_deagle",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 78000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "renegade_deagle_30rnd_mag"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_greengrunge_deagle",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 35750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_razor_deagle",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 35750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

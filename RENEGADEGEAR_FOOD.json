@@ -1,0 +1,175 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RenegadeGear_Food",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "renegade_menu1_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu10_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu11_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu12_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu13_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu14_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu15_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu2_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu3_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu4_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu5_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu6_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu7_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu8_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_menu9_mre",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 227,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

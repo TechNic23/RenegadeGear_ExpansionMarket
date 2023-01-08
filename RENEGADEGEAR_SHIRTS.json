@@ -1,0 +1,241 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RenegadeGear_Shirts",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "renegade_blkbluecamo_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_deadpool_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_defusing_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_forestgreen_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_gameover_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_greencamo_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_hogwarts_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_howto_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_joker_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_love_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_militarycamo_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_nightmarebeforexmas_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_panda_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_pixelcamo_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_redcamo_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_redgreycamo_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_softkitty_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_sword_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_thewitcher_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_toxicskull_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "renegade_unstoppable_tshirt",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
